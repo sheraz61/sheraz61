@@ -1,37 +1,21 @@
-<h1 align="center">Hi, I'm Sheraz Hussain</h1>
-<h3 align="center">Full Stack Developer • AI Enthusiast • Backend Engineer</h3>
+# Sheraz Hussain
 
-<p align="center">
-I build scalable web applications, explore AI systems, and enjoy solving complex engineering problems.
-</p>
+**Software Engineering Graduate | Full-Stack Developer | Open-Source Contributor**
 
----
+Software Engineering graduate with a **3.75/4.00 CGPA**, passionate about building full-stack applications and AI-powered solutions. Interested in backend engineering, system design, and scalable distributed systems.
 
-### Tech Stack
+- **Tech Stack:** JavaScript, TypeScript, Python, C++, React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Redis, AWS, Docker
+- **Open Source:** 5+ merged PRs to Pathment
+- **Problem Solving:** 300+ LeetCode problems solved
 
-```txt
-Frontend    React.js • Redux Toolkit • Tailwind CSS • Vite
-Backend     Node.js • Express.js • FastAPI • REST APIs
-Languages   JavaScript • TypeScript • Python • C++
-Database    MongoDB • PostgreSQL • MySQL
-Cloud       AWS EC2 • S3 • RDS • IAM • Nginx
-DevOps      GitHub Actions • CI/CD • Docker
-Tools       Git • GitHub • Postman • Cloudinary
-```
-
----
+### Featured Projects
+- **[Mockly](https://github.com/sheraz61/Mockly)** | AI-powered mock interview platform
+- **[LearnEx](https://github.com/sheraz61/LearnEx)** | Learning management system
+- **[CampusGuard](https://github.com/sheraz61/CampusGaurd)** | AI-powered campus safety and computer vision
+- **[Vendora](https://github.com/sheraz61/Vendora)** | Multi-vendor e-commerce platform
 
 ### Current Focus
+Backend Engineering | System Design | Distributed Systems | Cloud Infrastructure | DevOps
 
-- Backend Engineering
-- AI & Computer Vision
-- System Design
-- Cloud & DevOps
-- Scalable Architectures
-
----
-
-### Competitive Programming
-
-- Solved 300+ problems on LeetCode
-- Interested in problem solving and algorithmic thinking
+### Connect
+[GitHub](https://github.com/sheraz61) · [LinkedIn](https://www.linkedin.com/in/hsheraz/) · [LeetCode](https://leetcode.com/u/sheraz1_2/) · [Portfolio](https://hsheraz.vercel.app/)
